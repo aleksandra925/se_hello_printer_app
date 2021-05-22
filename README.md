@@ -41,7 +41,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ deactivate
 
 
-- MakeFile:
+- Uruchamianie aplikacji:
 
   # deps:
   $ pip install -r requirements.txt; \
