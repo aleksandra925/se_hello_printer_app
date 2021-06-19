@@ -3,6 +3,10 @@
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
+[![Build Status](https://travis-ci.com/aleksandra925/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/aleksandra925/se_hello_printer_app)
+
+https://app.statuscake.com/button/index.php?Track=6003172&Days=1&Design=1
+
 - W projekcie wykorzystamy virtual environment, dla utworzenia hermetycznego środowisko dla aplikacji:
 
   ```
@@ -108,5 +112,3 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
-
-  https://travis-ci.com/aleksandra925/se_hello_printer_app.svg?branch=master
