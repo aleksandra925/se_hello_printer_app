@@ -5,12 +5,12 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 TraviCI
 
-    [![Build Status](https://travis-ci.com/aleksandra925/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/aleksandra925/se_hello_printer_app)
+[![Build Status](https://travis-ci.com/aleksandra925/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/aleksandra925/se_hello_printer_app)
 
 
 StatusCake
 
-    [![Build Status](https://app.statuscake.com/button/index.php?Track=6003172&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003172)
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6003172&Days=1&Design=1)](https://app.statuscake.com/UptimeStatus.php?tid=6003172)
 
 - W projekcie wykorzystamy virtual environment, dla utworzenia hermetycznego środowisko dla aplikacji:
 
