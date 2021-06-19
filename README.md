@@ -108,3 +108,5 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+
+  https://travis-ci.com/aleksandra925/se_hello_printer_app.svg?branch=master
